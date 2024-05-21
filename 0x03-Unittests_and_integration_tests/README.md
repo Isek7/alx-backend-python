@@ -1,3 +1,6 @@
+# `Unittests and Integration tests`
+![](https://uploads-ssl.webflow.com/610bb663a35dd3364ddbf08c/624462bdfaecc44bc3dd0c9d_testing-diagram.png)
+
 # 0x03. Unittests and Integration Tests
 Alx project to demonstrate how to write unit and integration tests using the python unit testing framework and mock object library.
 - Unit testing is the process of testing that a particular function returns expected results for different set of inputs.
